@@ -22,5 +22,7 @@ public enum NotificationType
     /// <summary>
     ///     Indicates a notification when a user releases the talk button prematurely during a conversation.
     /// </summary>
-    TalkButtonReleasedEarly
+    TalkButtonReleasedEarly,
+
+    DailyNotification
 }

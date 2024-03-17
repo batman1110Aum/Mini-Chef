@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: d8d0d8936fd67134c8e8183b7959aaf3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5732b8f2692a1469b524fe6bd5a0fd
+      internalID: 1675895773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbfcb82ca32ca42b02fb7897dc9f01
+      internalID: -1036292137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1f28bba3bad343bbab54522b85697
+      internalID: -208027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a7dac764eed94b977c30f458da71d
+      internalID: -1366285204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59ab253db365b47b805b1e60f59c80
+      internalID: 1625666693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e027e65aa0c1a84cb9c5a91dc67f8d5
+      internalID: -1490636757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf203cc15e5daae4d9a4eae86d22e17c
+      internalID: -1256088386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60edc06c94bd4524ea8976441a83a8b4
+      internalID: -946410544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 155
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94f00f9746f0c46b03b92a9a691476
+      internalID: 1954645178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b5d9c7a77e524ca76ae63ccffedca
+      internalID: 185806319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cd8c8f6af2ac44a9640860f52aa36
+      internalID: -189550792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a371e61500514fb84655a5d45a457
+      internalID: 1731127088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1f7ebb55da8c4d829ed8e3d3fe96f
+      internalID: -73291986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00adf113def32834b8c09c0ded4ba594
+      internalID: -289074236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9aaab1249542046bf3442f45b1fa6e
+      internalID: 1822818757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dcd2eddbf81a04892fe4b5ff9cd302
+      internalID: -466332557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be86cd09193f848b890528beb8205e
+      internalID: 603823965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa27d954de39942b39f33d26108f58
+      internalID: 1646968616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89bb4ef6458ac14d994d2f4d60d7fd6
+      internalID: -1323828917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dc7a36ca127834d892e506a8c01187
+      internalID: 1739756794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261dad2a3e0040e4ba212375ff94a322
+      internalID: -2133169303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229207fa2f272d43a0af979c4175f20
+      internalID: -868121774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d4c6c4a2c05e84ebaaeff74f997388
+      internalID: -1018732661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f8de08645bda498cc51bef9accdbf
+      internalID: 1117026841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629aeca1a4db56d47911de94bbb95fa4
+      internalID: 133081308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c2dc79cda59047bf5682187625621
+      internalID: 1155280484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7958a1b0531bd48a676c1a7bbb4757
+      internalID: 978673527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2d8ea0aacdee46a6f8cc09c7e1bcd
+      internalID: -695528164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d4d8052fe50134b9926c24e423eff8
+      internalID: -1205413511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000dcf086f94a547ab4449125a281a6
+      internalID: -75940261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03aaa1a7c9b5bd4280671c4c15e73cb
+      internalID: 402389349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6205f81e328f4ab1cf66a557b00f8
+      internalID: -415173998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b883a15dea2b6214c833f89efb62f0a9
+      internalID: -349492718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7442d798e42714bac114aa07d68563
+      internalID: 1003038856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2367074a165144791adc47bef26e3d
+      internalID: 275056892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f86174fdd9d8b448b0eb4fa3f4cb4be
+      internalID: -1463412653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3d5215a728da45bfdf676afc949ae
+      internalID: 497992243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6db969f52cf20448dea519e0148618
+      internalID: -829399949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3b963fb74b5d49af37c67b9bf8b6e
+      internalID: -1750465732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cab79ed6d131408444730229d0dc1
+      internalID: -1936863256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17c474c0855164a9069f4aecc7d25c
+      internalID: 1944570091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da2064ac3bdbb4c83d79390914378c
+      internalID: 1962187271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07014a8039d8e4681e70fce02c4b66
+      internalID: -1288961254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088421b893cbb54da184ed48983773a
+      internalID: 1911068446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce99b180c09430468005a3bcb936e0f
+      internalID: -117539976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a15a092533203458deb63451e22597
+      internalID: -1502378315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f41003c2d46f459e61e6101669dd8
+      internalID: -1424065945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d524d27cd949f845ad48e37742b1c95
+      internalID: -749984936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7065a186a1a530418a996b379200948
+      internalID: -1296457712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d273b3d3de21244b9eeec35cb31463e
+      internalID: -880900916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e9773d9cad5f84fb99c894f086ba95
+      internalID: -1938710898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719f3e45b265af41aa355062d427534
+      internalID: -1153152375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a488796706874984c91c92616cf24
+      internalID: -1692459919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stimky_mascot_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a491f9ef6df6a84faf91887eb0e2167
+      internalID: -2070329605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stimky_mascot_spritesheet_0: 1675895773
+      stimky_mascot_spritesheet_1: -1036292137
+      stimky_mascot_spritesheet_10: -189550792
+      stimky_mascot_spritesheet_11: 1731127088
+      stimky_mascot_spritesheet_12: -73291986
+      stimky_mascot_spritesheet_13: -289074236
+      stimky_mascot_spritesheet_14: 1822818757
+      stimky_mascot_spritesheet_15: -466332557
+      stimky_mascot_spritesheet_16: 603823965
+      stimky_mascot_spritesheet_17: 1646968616
+      stimky_mascot_spritesheet_18: -1323828917
+      stimky_mascot_spritesheet_19: 1739756794
+      stimky_mascot_spritesheet_2: -208027389
+      stimky_mascot_spritesheet_20: -2133169303
+      stimky_mascot_spritesheet_21: -868121774
+      stimky_mascot_spritesheet_22: -1018732661
+      stimky_mascot_spritesheet_23: 1117026841
+      stimky_mascot_spritesheet_24: 133081308
+      stimky_mascot_spritesheet_25: 1155280484
+      stimky_mascot_spritesheet_26: 978673527
+      stimky_mascot_spritesheet_27: -695528164
+      stimky_mascot_spritesheet_28: -1205413511
+      stimky_mascot_spritesheet_29: -75940261
+      stimky_mascot_spritesheet_3: -1366285204
+      stimky_mascot_spritesheet_30: 402389349
+      stimky_mascot_spritesheet_31: -415173998
+      stimky_mascot_spritesheet_32: -349492718
+      stimky_mascot_spritesheet_33: 1003038856
+      stimky_mascot_spritesheet_34: 275056892
+      stimky_mascot_spritesheet_35: -1463412653
+      stimky_mascot_spritesheet_36: 497992243
+      stimky_mascot_spritesheet_37: -829399949
+      stimky_mascot_spritesheet_38: -1750465732
+      stimky_mascot_spritesheet_39: -1936863256
+      stimky_mascot_spritesheet_4: 1625666693
+      stimky_mascot_spritesheet_40: 1944570091
+      stimky_mascot_spritesheet_41: 1962187271
+      stimky_mascot_spritesheet_42: -1288961254
+      stimky_mascot_spritesheet_43: 1911068446
+      stimky_mascot_spritesheet_44: -117539976
+      stimky_mascot_spritesheet_45: -1502378315
+      stimky_mascot_spritesheet_46: -1424065945
+      stimky_mascot_spritesheet_47: -749984936
+      stimky_mascot_spritesheet_48: -1296457712
+      stimky_mascot_spritesheet_49: -880900916
+      stimky_mascot_spritesheet_5: -1490636757
+      stimky_mascot_spritesheet_50: -1938710898
+      stimky_mascot_spritesheet_51: -1153152375
+      stimky_mascot_spritesheet_52: -1692459919
+      stimky_mascot_spritesheet_53: -2070329605
+      stimky_mascot_spritesheet_6: -1256088386
+      stimky_mascot_spritesheet_7: -946410544
+      stimky_mascot_spritesheet_8: 1954645178
+      stimky_mascot_spritesheet_9: 185806319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
