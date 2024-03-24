@@ -1,11 +1,13 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.EnhancedTouch;
+using Touch = UnityEngine.InputSystem.EnhancedTouch.Touch;
 
 /// <summary>
 /// The Input Manager class for Convai, allowing you to control inputs in your project through this class.
 /// It supports both the New Input System and Old Input System.
 /// </summary>
-[DefaultExecutionOrder(-105)]
 public class ConvaiInputManager : MonoBehaviour
 {
     /// <summary>
@@ -51,6 +53,11 @@ public class ConvaiInputManager : MonoBehaviour
     public InputAction SettingsKeyAction;
 
     /// <summary>
+    /// Event triggered when a touch occurs on the screen.
+    /// </summary>
+    public Action<Finger> OnTouchScreen;
+
+    /// <summary>
     /// Awake is called when the script instance is being loaded.
     /// </summary>
     private void Awake()
@@ -78,6 +85,29 @@ public class ConvaiInputManager : MonoBehaviour
         TextSendKeyAction.Enable();
         TalkKeyAction.Enable();
         SettingsKeyAction.Enable();
+        EnhancedTouchSupport.Enable();
+
+        // Subscribe to the touch input event
+        Touch.onFingerDown += Touch_OnFingerDown;
+    }
+
+    /// <summary>
+    /// Disables the object and unsubscribes from the touch input event.
+    /// </summary>
+    private void OnDisable()
+    {
+        // Unsubscribe from the touch input event when the object is disabled
+        Touch.onFingerDown -= Touch_OnFingerDown;
+    }
+
+    /// <summary>
+    /// Event handler for the touch input. Invokes the OnTouchScreen event and passes the Finger data.
+    /// </summary>
+    /// <param name="finger">The Finger data associated with the touch input.</param>
+    private void Touch_OnFingerDown(Finger finger)
+    {
+        // Invoke the OnTouchScreen event and pass the Finger data
+        OnTouchScreen?.Invoke(finger);
     }
 
     /// <summary>
